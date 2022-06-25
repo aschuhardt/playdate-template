@@ -1,0 +1,8 @@
+name=${TEMPLATE_NAME}
+author=${TEMPLATE_AUTHOR}
+description=${TEMPLATE_DESC}
+bundleID=${TEMPLATE_BUNDLEID}
+version=1.0
+buildNumber=1
+imagePath=
+contentWarning=
